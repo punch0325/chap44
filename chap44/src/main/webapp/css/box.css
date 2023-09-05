@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+/* 외장 스타일시트 */
+#b1{
+	border: 5px solid mediumpurple;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+}
+#b2{
+	border: 10px dotted lime;
+	width: 500px;
+	height: 100px;
+	text-align: center;
+}
+#b3{
+	border: 3px double navy;
+	width: 50px;
+	height: 400px;
+	text-align: center;
+}
+div{
+	border-radius: 30px 30px;	
+}
+
